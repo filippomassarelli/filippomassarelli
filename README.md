@@ -5,18 +5,18 @@
 [![GitHub filippo](https://img.shields.io/github/followers/filippo?label=follow&style=social)][GitHub]
 
 
-### Self-taught developer & failed astronaut
+### A self-taught developer & failed astronaut
 
 - 🌱 currently working at [Seedrs][Seedrs] as Portfolio Manager
 - 🧠 learning Front End technologies along with wider CS topics
 - 🤸🏻 practicing the handstand
 - 🛸 2020 Goals: transition full time to web development
-- ⚡ Fun fact: I also make shirts! 👉 [Nanga Mai][NangaMai]
+- ⚡ Fun fact: I also make shirts @ [Nanga Mai][NangaMai]
 
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>🧑‍🚀 <strong>Github Stats</strong></summary>
 
   <img align="left" alt="filippomassarelli Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippomassarelli&show_icons=true&hide_border=true" />
 
