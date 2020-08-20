@@ -1,4 +1,4 @@
-### Hi there, I'm Filippo 👋
+## Hi there, I'm Filippo 👋
 
 <!--
 **filippomassarelli/filippomassarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,31 +20,17 @@ Here are some ideas to get you started:
 [![GitHub filippo](https://img.shields.io/github/followers/filippo?label=follow&style=social)][GitHub]
 
 
-## A self-taught developer
+### A self-taught developer
 
-- 🌱 I’m currently working at [Seedrs][Seedrs]!
-- ⚛ I’m currently learning Front End technologies 
-- 👯 I’m looking to connect with other self-taught developers
-- 🥅 2020 Goals: transition full time to web development
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- 🌱 currently working at [Seedrs][Seedrs] as Portfolio Manager
+- 🧠 learning Front End technologies along with wider CS topics
+- 🤸🏻 practicing the handstand
+- 🛸 2020 Goals: transition full time to web development
+- ⚡ Fun fact: I also make shirts! 👉 [Nanga Mai][NangaMai]
 
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//filippomassarelli/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//filippomassarelli/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//filippomassarelli/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//filippomassarelli/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//filippomassarelli/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//filippomassarelli/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -56,9 +42,4 @@ Here are some ideas to get you started:
 [Linkedin]: https://www.linkedin.com/in/smilemeup/
 [GitHub]: https://github.com/filippomassarelli
 [Seedrs]: https://seedrs.com/
-
-
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[NangaMai]: https://www.nanga-mai.com/
