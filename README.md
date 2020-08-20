@@ -5,7 +5,7 @@
 [![GitHub filippo](https://img.shields.io/github/followers/filippo?label=follow&style=social)][GitHub]
 
 
-### A self-taught developer
+### Self-taught developer & failed astronaut
 
 - 🌱 currently working at [Seedrs][Seedrs] as Portfolio Manager
 - 🧠 learning Front End technologies along with wider CS topics
