@@ -11,7 +11,7 @@
 - 🧠 learning Front End technologies along with wider CS topics
 - 🤸🏻 practicing the handstand
 - 🛸 2020 Goals: transition full time to web development
-- ⚡ Fun fact: I also make shirts @ [Nanga Mai][NangaMai]
+- ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
 
