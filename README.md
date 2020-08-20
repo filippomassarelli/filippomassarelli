@@ -24,7 +24,7 @@
 
 ---
 
-#### Feel free to get in touch !
+### Feel free to get in touch !
 
 [Linkedin]: https://www.linkedin.com/in/smilemeup/
 [GitHub]: https://github.com/filippomassarelli
