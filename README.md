@@ -2,7 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
 [![Linkedin: smilemeup](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin]
-[![GitHub filippo](https://img.shields.io/github/followers/filippo?label=follow&style=social)][GitHub]
 
 
 ### A self-taught developer & failed astronaut
