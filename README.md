@@ -10,7 +10,7 @@
 - 🌱 currently working at [Seedrs][Seedrs] as Portfolio Manager
 - 🧠 learning Front End technologies along with wider CS topics
 - 🤸🏻 practicing the handstand
-- 🛸 2020 Goals: transition full time to web development
+- 🛸 2021 Goals: help a company grow beyond unicorn
 - ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
