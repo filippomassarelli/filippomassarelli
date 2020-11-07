@@ -9,7 +9,8 @@
 - 🌱 currently working at [Seedrs][Seedrs] as Portfolio Manager
 - 🧠 learning Front End technologies along with wider CS topics
 - 🤸🏻 practicing the handstand
-- 🛸 2021 Goals: help a company grow beyond unicorn
+- 📚 if you haven't, read Satoshi Nakamoto [whitepaper][satoshi] now
+- 🛸 looking to help companies grow beyond unicorn
 - ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
@@ -29,3 +30,4 @@
 [GitHub]: https://github.com/filippomassarelli
 [Seedrs]: https://seedrs.com/
 [NangaMai]: https://www.nanga-mai.com/
+[satoshi]: https://bitcoin.org/bitcoin.pdf/
