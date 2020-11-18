@@ -10,7 +10,7 @@
 - 🧠 learning Front End technologies along with wider CS topics
 - 🤸🏻 practicing the handstand
 - 📚 if you haven't, read Satoshi Nakamoto's [whitepaper][satoshi] now
-- 🛸 looking to help companies grow beyond unicorn
+- 🛸 driven by innovations that improve how people live their lives
 - ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
