@@ -9,7 +9,7 @@
 - 🌍 grew up in Africa, Central America and Middle East
 - 🎓 studied Aerospace Engineering to make the world a better place with Technology 
 - 🤦‍♂️ wish I knew CS was a thing back then...
-- 🌱 stumbled into entrepreneurship, founded 2 companies and now advise over 200 as Portfolio Manager at [Seedrs][Seedrs]
+- 🌱 founded 2 companies and now advise over 200 as Portfolio Manager at [Seedrs][Seedrs]
 - 🧠 passionate about understanding how things work 
 - 🤸🏻 practice "mens sana in corpore sano"
 - 📚 love Bitcoin, it's like coding, it's easy if you read the documentation (see [Satoshi's whitepaper][satoshi])
