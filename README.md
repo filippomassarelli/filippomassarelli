@@ -10,7 +10,7 @@
 - 🧠 learning Front End technologies along with wider CS topics
 - 🤸🏻 practicing the handstand
 - 📚 if you haven't, read Satoshi Nakamoto's [whitepaper][satoshi] now
-- 🛸 2021 Goals: code 5 days a week and learn guitar
+- 🛸 2021 Goals: code 5 days a week and learn the guitar
 - ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
