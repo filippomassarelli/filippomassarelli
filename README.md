@@ -7,7 +7,7 @@
 ### A self-taught developer & failed astronaut
 
 
-- 🌱 currently transitioning from Portfolio Manager to Software Engineer at [Seedrs][Seedrs]
+- 🌱 currently transitioning from Portfolio Manager to Software Engineer @ [Seedrs][Seedrs]
 - 🧠 learning Ruby on Rails, React and TypeScript
 - 🤸🏻 practicing the handstand
 - 📚 if you haven't, read Satoshi Nakamoto's [whitepaper][satoshi] now
