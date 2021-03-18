@@ -7,11 +7,11 @@
 ### A self-taught developer & failed astronaut
 
 
-- 🌱 currently working at [Seedrs][Seedrs] as Portfolio Manager
-- 🧠 learning Front End technologies along with wider CS topics
+- 🌱 currently transitioning from Portfolio Manager to Software Engineer at [Seedrs][Seedrs]
+- 🧠 learning Ruby on Rails, React and TypeScript
 - 🤸🏻 practicing the handstand
 - 📚 if you haven't, read Satoshi Nakamoto's [whitepaper][satoshi] now
-- 🛸 2021 Goals: code 5 days a week and learn the guitar
+- 🛸 2021 Goals: become a better engineer and learn the guitar
 - ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
