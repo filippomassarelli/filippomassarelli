@@ -11,7 +11,7 @@
 - 🧠 learning Ruby on Rails, React and TypeScript
 - 🤸🏻 practicing the handstand
 - 📚 if you haven't, read Satoshi Nakamoto's [whitepaper][satoshi] now
-- 🛸 2021 Goals: become a better engineer and learn the guitar
+- 🛸 2021 Goals: start off as a professional software engineer
 - ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
