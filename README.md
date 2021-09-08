@@ -7,12 +7,12 @@
 ### A self-taught developer & failed astronaut
 
 
-- 🌱 currently transitioning from Portfolio Manager to Software Engineer @ [Seedrs][Seedrs]
-- 🧠 learning Ruby on Rails, React and TypeScript
+- 🌱 transitioned from Entreprenur to Portfolio Manager to Software Engineer @ [Seedrs][Seedrs]
+- 🧠 getting better at Rails, React and TypeScript
 - 🤸🏻 practicing the handstand
-- 📚 if you haven't, read Satoshi Nakamoto's [whitepaper][satoshi] now
+- 📚 fan of Proof of Stake blockchain projects
 - 🛸 2021 Goals: start off as a professional software engineer
-- ⚡ Fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
+- ⚡ fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
 
