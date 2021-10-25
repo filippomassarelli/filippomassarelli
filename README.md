@@ -19,7 +19,7 @@
 <details>
   <summary>🧑‍🚀 <strong>Github Stats</strong></summary>
 
-  <img align="left" alt="filippomassarelli Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippomassarelli&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
+  <img align="left" alt="filippomassarelli Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippomassarelli&show_icons=true&hide_border=true&count_private=true&hide=stars,issues,contribs,prs" />
 
 </details>
 
