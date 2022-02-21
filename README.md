@@ -1,9 +1,7 @@
 ## Hi there, I'm Filippo 👋
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
-[![Linkedin: smilemeup](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin]
-
-[![Twitter: @fpp_mss](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/fpp_mss)][Linkedin]
+[![Linkedin: smilemeup](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin] [![Twitter: @fpp_mss](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/fpp_mss)][Twitter]
 
 
 ### A self-taught developer & failed astronaut
@@ -30,6 +28,7 @@
 ### Feel free to get in touch !
 
 [Linkedin]: https://www.linkedin.com/in/smilemeup/
+[Twitter]: https://twitter.com/fpp_mss
 [GitHub]: https://github.com/filippomassarelli
 [Seedrs]: https://seedrs.com/
 [NangaMai]: https://www.nanga-mai.com/
