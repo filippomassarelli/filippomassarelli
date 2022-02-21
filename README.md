@@ -7,7 +7,7 @@
 ### A self-taught developer & failed astronaut
 
 
-- 🌱 transitioned from Entreprenur to Venture Capitalist to Software Engineer @ [Seedrs][Seedrs]
+- 🌱 transitioned from Entreprenur to Venture Capitalist to Software Engineer
 - 🧠 getting better at Rails, React, TypeScript and Solidity
 - 🤸🏻 practicing the handstand
 - 📚 fan of Proof of Stake blockchain projects
