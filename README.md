@@ -3,6 +3,8 @@
 
 [![Linkedin: smilemeup](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin]
 
+[![Twitter: @fpp_mss](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/fpp_mss)][Linkedin]
+
 
 ### A self-taught developer & failed astronaut
 
