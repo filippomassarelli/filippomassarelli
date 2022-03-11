@@ -9,9 +9,9 @@
 
 - 🌱 transitioned from Entreprenur to Venture Capitalist to Software Engineer
 - 🧠 getting better at Rails, React, TypeScript and Solidity
-- 🤸🏻 practicing the handstand
-- 📚 fan of Proof of Stake blockchain projects
-- 🛸 2022 Goal: improve blockchain development skills
+- 🤸🏻 been practicing the handstand forever.. one day!
+- 📚 fan of decentralised finance
+- 🛸 2022 Goal: explore Web3 technologies
 - ⚡ fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
