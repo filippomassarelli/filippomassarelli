@@ -8,7 +8,7 @@
 
 
 - 🌱 transitioned from Entreprenur to Venture Capitalist to Software Engineer
-- 🧠 getting better at Rails, React, TypeScript and Solidity
+- 🧠 getting better at Rails, GraphQL, React, Next and Solidity
 - 🤸🏻 been practicing the handstand forever.. one day!
 - 📚 fan of decentralised finance
 - 🛸 2022 Goal: explore Web3 technologies
