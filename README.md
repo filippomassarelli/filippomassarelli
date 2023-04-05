@@ -11,7 +11,7 @@
 - 🧠 getting better at Rails, GraphQL, React, Next and Solidity
 - 🤸🏻 been practicing the handstand forever.. one day!
 - 📚 fan of decentralised finance
-- 🛸 2022 Goal: explore Web3 technologies
+- 🛸 2023 Goal: explore AI tools
 - ⚡ fun fact: I also make linen shirts @ [Nanga Mai][NangaMai]
 
 ---
