@@ -3,7 +3,7 @@
 
 [![Linkedin: filippo](https://img.shields.io/badge/-filippo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin] 
 
-### Self-taught developer & failed astronaut
+### Self-taught astronaut
 
 
 - 🌱 transitioned from Founder to VC to Software Engineer
