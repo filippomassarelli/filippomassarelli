@@ -1,8 +1,7 @@
 ## Hi there, I'm Filippo 👋
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
-[![Linkedin: smilemeup](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin] [![Twitter: @fmpeanuts](https://img.shields.io/badge/-@fmpeanuts-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/fmpeanuts)][Twitter]
-
+[![Linkedin: filippo](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin] 
 
 ### Self-taught developer & failed astronaut
 
