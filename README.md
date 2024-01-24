@@ -1,7 +1,7 @@
 ## Hi there, I'm Filippo 👋
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
-[![Linkedin: filippo](https://img.shields.io/badge/-smilemeup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin] 
+[![Linkedin: filippo](https://img.shields.io/badge/-filippo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)][Linkedin] 
 
 ### Self-taught developer & failed astronaut
 
