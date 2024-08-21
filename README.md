@@ -7,17 +7,16 @@
 
 
 - 🌱 transitioned from Founder to VC to Software Engineer
-- 🧠 focussing on Ruby and GraphQL
-- 🤸🏻 working on the handstand 
+- 🧠 focussing on mastering Ruby and GraphQL
+- 🤸🏻 still working on my handstand 
 - 🖌️ my hobby is drawing
-- 🛸 2024 Goal: build my second brain in Obsidian
+- 🛸 2024 Goal: train an open source LLM locally
 
 ---
 
 ### Feel free to get in touch !
 
-[Linkedin]: https://www.linkedin.com/in/smilemeup/
-[Twitter]: https://twitter.com/fmpeanuts
+[Linkedin]: [https://www.linkedin.com/in/smilemeup/](https://www.linkedin.com/in/filippomassarelli/)
 [GitHub]: https://github.com/filippomassarelli
 [Seedrs]: https://seedrs.com/
 [NangaMai]: https://www.nanga-mai.com/
