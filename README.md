@@ -9,8 +9,8 @@
 - 🌱 transitioned from Founder to VC to Software Engineer
 - 🧠 focussing on mastering Ruby and GraphQL
 - 🤸🏻 still working on my handstand 
-- 🖌️ my hobby is drawing
-- 🛸 2024 Goal: train an open source LLM locally
+- 🖌️ my hobby is digital painting
+- 🛸 2025 Goal: uphold high OOP design standards
 
 ---
 
